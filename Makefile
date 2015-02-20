@@ -1,2 +1,4 @@
 all:
-	@echo "build ready"
+	gitbook build
+clean:
+	rm -rf _book
