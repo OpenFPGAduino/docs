@@ -1,1 +1,1 @@
-# qsys system
+# system model
