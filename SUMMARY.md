@@ -23,6 +23,8 @@
    * [fpga](the_software/grid.md)
        * [FPGAdesigner](the_software/connection_matrix.md)
        * [system model](the_software/qsys_system.md)
+           * [slot model](the_software/slot_model)
+           * [step motor](the_software/step_motor)
    * [driver](the_software/driver.md)
    * [meterioshell](the_software/meterioshell.md)
    * [IDE](the_software/ide.md)
