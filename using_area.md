@@ -1,8 +1,9 @@
 # Using area
-Rapid Prototype
+There are huge amount of suitable area for the broad. Only some of them are listed as follow:
 Test and measurement equipment
 IoE or IoT
-smart home
-home robot
+Smart home
+Home robot
+Rapid Prototype of scientific project
 
 
