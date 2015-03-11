@@ -9,7 +9,7 @@
    * [The core broad](the_hardware/the_core_broad.md)
        * [chip list](the_hardware/chip_list.md)
        * [structure](the_hardware/structure.md)
-   * [Them mother broad](the_hardware/them_mother_broad.md)
+   * [The mother broad](the_hardware/them_mother_broad.md)
        * [extention interface](the_hardware/extention_interface.md)
    * [Extention broad](the_hardware/extend_broad.md)
 * [The software](the_software/README.md)
