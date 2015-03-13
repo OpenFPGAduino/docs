@@ -1,4 +1,9 @@
 # SDcard
-1 Use imagewrite to wirte the root fs image to the sdcard
+1 Use Imagewrite to wirte the root fs image to the sdcard
+In windows
 
-2 Use fdisk in the linux to build a SDcard
+http://sourceforge.net/projects/win32diskimager/
+
+2 Use DD command to wite the root fs image to the sdcard in Linux
+
+dd if=openfpgaduino.img of=/dev/sda
