@@ -2,7 +2,7 @@
 
 openFPGAduino is a open source hardware porject.
 ![](main.jpg)
-The live demo 
+The live demo
 
 http://v.youku.com/v_show/id_XOTQ3MjkxNzU2.html?from=y1.7-1.2
 
