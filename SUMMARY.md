@@ -42,5 +42,7 @@
    * [meterioshell](the_software/meterioshell.md)
    * [Arduino IDE](the_software/ide.md)
    * [libArduino](the_software/libarduino.md)
+   * [ArduinojsIDE](the_software/arduinojside)
    * [SDcard](the_software/sdcard.md)
+   * [Arduinojs](the_software\arduinojs)
 
