@@ -1,13 +1,21 @@
 # Develop environment
-The develop environment to build the bootload, linux kernerl, driver, libArdunio can be downloaded in Docker website by command:
+The develop environment to build all the software can be downloaded in Docker website.
 
-docker pull lizhizhou/openfpgaduino_buid
+Prepare the Build environment
 
-and run the
+Install the docker: https://docs.docker.com/installation/#installation
 
-docker run -i lizhizhou/openfpgaduino_buid
+Download the Build environment:
+sudo docker pull openfpgaduino/openfpgaduino
 
-go into to the /openfpgaduino path and build all the code by
+Run the environment and open the shell:
+sudo docker run --privileged -i -t openfpgaduino/openfpgaduino
+
+Pull the view:
+git clone --recursive https://github.com/OpenFPGAduino/OpenFPGAduino.git
+
+Build all software:
+
+./configure
 
 make
-
