@@ -14,3 +14,5 @@ All of them are open source.
 
 Official web site
 http://openfpgaduino.github.io
+Official source code site
+https://github.com/OpenFPGAduino/OpenFPGAduino
