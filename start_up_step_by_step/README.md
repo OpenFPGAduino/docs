@@ -48,7 +48,7 @@ ID	客户端名	MAC 地址	IP 地址	有效时间
 The ip address of the broad is 192.168.2.109
 
 ## 6 load the Arduino IDE from the browser
-Open a brower and type the address:
+Open a browser and type the address:
 http://(ip_addres_of_the_broad):8888
 ![](ide.fw.png)
 ## 7 Load a configuration
