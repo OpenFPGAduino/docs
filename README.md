@@ -1,6 +1,6 @@
 # The openFPGAduino User Manual
 
-openFPGAduino is a open source hardware project.
+OpenFPGAduino is a open source hardware project.
 ![](main.jpg)
 The live demo
 
