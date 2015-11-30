@@ -8,7 +8,7 @@
 Press the gray button to power on. Pink one is the reset button. After power on the usb device of the broad will be recognize as a serial port.
 
 ## 3 login the console
-Download a putty software and connect the serial port, the bandrate is 115200.
+Download a putty software and connect the serial port, the band-rate is 115200.
  [www.putty.org](www.putty.org)
 
 ## 4 get the ip address from console
