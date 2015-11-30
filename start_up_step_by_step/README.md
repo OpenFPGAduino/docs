@@ -5,7 +5,7 @@
 ## 2 Press the power button.
 ![](power_on.fw.png)
 
-Press the gray button to power on. Pink one is the reset button. After power on the usb device of the broad will be recognize as a serical port.
+Press the gray button to power on. Pink one is the reset button. After power on the usb device of the broad will be recognize as a serial port.
 
 ## 3 login the console
 Download a putty software and connect the serial port, the bandrate is 115200.
