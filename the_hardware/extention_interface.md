@@ -9,5 +9,5 @@ This is the extension IO of the mother broad. The extension IOs are listed as fo
 5. Audio
 6. S/PDIF
 7. LCD interface(in the back end)
-7. Programable IO A
-8. Programable IO B
+7. Programmable IO A
+8. Programmable IO B
