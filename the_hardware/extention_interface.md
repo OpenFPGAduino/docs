@@ -1,6 +1,6 @@
 # extention interface
 ![](mother_extention.png)
-This is the extention IO of the mather broad. The extention IOs are listed as follows:
+This is the extension IO of the mother broad. The extension IOs are listed as follows:
 
 1. Ethernet
 2. USB device
