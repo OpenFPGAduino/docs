@@ -6,3 +6,5 @@ The core broad has the necessary chips to provide the key functionality of the s
 The mother broad provides the basic IO extension include Ethernet, USB host USB device, etc.
 
 The extension broad provides extension for the programmable IO interface.
+
+All the design file is open source and your can re-product it.
