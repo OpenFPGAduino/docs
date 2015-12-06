@@ -19,7 +19,7 @@
        * [build](the_software/build.md)
        * [install](the_software/install.md)
    * [linux](the_software/linux.md)
-       * [build](the_software/build.md)
+       * [build](the_software/linuxbuild.md)
        * [install](the_software/install.md)
    * [fpga](the_software/grid.md)
        * [The cloud FPGA environment](the_software/the_cloud_fpga_environment.md)
