@@ -19,7 +19,7 @@
        * [build](the_software/build.md)
        * [install](the_software/install.md)
    * [linux](the_software/linux.md)
-       * [build](file_name_should_be_unique.md)
+       * [build](the_software/build.md)
        * [install](the_software/install.md)
    * [fpga](the_software/grid.md)
        * [The cloud FPGA environment](the_software/the_cloud_fpga_environment.md)
