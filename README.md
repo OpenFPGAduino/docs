@@ -19,3 +19,7 @@ http://openfpgaduino.github.io
 Official source code site
 
 https://github.com/OpenFPGAduino/OpenFPGAduino
+
+Training video in Chinese
+
+http://www.elsyy.com/course/6884
