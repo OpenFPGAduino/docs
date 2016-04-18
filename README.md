@@ -1,8 +1,8 @@
-# The openFPGAduino User Manual
+# The openFPGAduino 用户手册
 
-OpenFPGAduino is a open source hardware project.
+OpenFPGAduino 是一个开源项目.
 ![](main.jpg)
-The live demo
+视频演示
 
 http://v.youku.com/v_show/id_XOTQ3MjkxNzU2.html?from=y1.7-1.2
 
@@ -12,14 +12,14 @@ It includes a open source hardware platform with one core pcb, one motherbroad a
 It also includes linux, broad driver, FPGA project, and IDE based on nodejs.
 All of them are open source.
 
-Official web site
+官方主页
 
 http://openfpgaduino.github.io
 
-Official source code site
+源代码仓库
 
 https://github.com/OpenFPGAduino/OpenFPGAduino
 
-Training video in Chinese
+视屏培训
 
 http://www.elsyy.com/course/6884
