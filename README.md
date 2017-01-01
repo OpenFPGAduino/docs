@@ -12,6 +12,7 @@ http://v.youku.com/v_show/id_XMTg4MjgyMDU4MA==.html?spm=a2hzp.8253869.0.0
 
 https://www.youtube.com/watch?v=jsjrgsI-3QM
 
+https://www.youtube.com/watch?v=g4E1hoc72DY
 
 It includes a open source hardware platform with one core pcb, one motherbroad and sevial extention broad.
 It also includes linux, broad driver, FPGA project, and IDE based on nodejs.
