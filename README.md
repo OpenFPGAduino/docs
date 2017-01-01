@@ -6,7 +6,12 @@ The live demo
 
 http://v.youku.com/v_show/id_XOTQ3MjkxNzU2.html?from=y1.7-1.2
 
+http://v.youku.com/v_show/id_XMTU3MTUzNTM4OA==.html?spm=a2hzp.8253869.0.0
+
+http://v.youku.com/v_show/id_XMTg4MjgyMDU4MA==.html?spm=a2hzp.8253869.0.0
+
 https://www.youtube.com/watch?v=jsjrgsI-3QM
+
 
 It includes a open source hardware platform with one core pcb, one motherbroad and sevial extention broad.
 It also includes linux, broad driver, FPGA project, and IDE based on nodejs.
