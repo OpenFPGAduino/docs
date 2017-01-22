@@ -22,6 +22,10 @@ Official web site
 
 http://openfpgaduino.github.io
 
+Online ide demo
+
+http://openfpgaduino.github.io/blocklyide/index.html
+
 Official source code site
 
 https://github.com/OpenFPGAduino/OpenFPGAduino
