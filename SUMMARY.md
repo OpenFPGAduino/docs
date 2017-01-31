@@ -45,4 +45,7 @@
    * [ArduinojsIDE](the_software/arduinojside.md)
    * [Arduinojs](the_software/arduinojs.md)
    * [SDcard](the_software/sdcard.md)
+* [The demo](the_demo/README.md)
+  * [Robot arm](the_demo/robot_arm.md)
+
 
