@@ -47,5 +47,10 @@
    * [SDcard](the_software/sdcard.md)
 * [The demo](the_demo/README.md)
   * [Robot arm](the_demo/robot_arm.md)
+      * [FPGA Steering motor driver](the_demo/FPGA_steering_motor.md)
+      * [LibArduino Steering motor driver](the_demo/LibArduino_steering_motor.md)
+      * [Arduinojs Steering motor driver](the_demo/Arduinojs_steering_motor.md)
+      
+      
 
 
