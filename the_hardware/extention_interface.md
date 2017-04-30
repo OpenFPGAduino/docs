@@ -6,7 +6,7 @@ This is the extension IO of the mother broad. The extension IOs are listed as fo
 1. Ethernet \(10/100Mbis\)
 2. USB device \(2.0\)
 3. USB host \(2.0\)
-4. SD card
+4. SD card \(SD3.0\)
 5. Audio 
 6. S/PDIF
 7. LCD interface\(in the back end\)
