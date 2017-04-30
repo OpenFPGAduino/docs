@@ -1,2 +1,2 @@
-![](/assets/mother structure.png)
+![](/the_hardware/mother structure.png)
 
