@@ -1,0 +1,2 @@
+![](/assets/mother structure.png)
+
